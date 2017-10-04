@@ -67,7 +67,8 @@ time to install one-by-one own.
 [git]: #git
 
 You can install Git as stated by [Github][install-git].
-Here are some tutorials you may enjoy:
+
+Here are some tutorials you may enjoy after you installed Git:
 
 - [Try Git][try-git]
 - [Git Guide][git-guide]
