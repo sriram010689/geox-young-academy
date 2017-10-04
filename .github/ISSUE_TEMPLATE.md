@@ -22,7 +22,7 @@
        https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#git
   - [ ] 20min - I did a git tutorial.  
        https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#git
-  - [ ] 5min - I created a pull request and added my name to the participants section.
+  - [ ] 5min - I created a pull request and added my name to the participants section.  
        https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#participants
   - [ ] 5min - I have cloned this repository to my computer.  
         `git clone https://github.com/KDD-OpenSource/geox-young-academy.git`
