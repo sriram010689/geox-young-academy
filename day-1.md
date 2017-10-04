@@ -13,7 +13,7 @@ From feedback, we got the two main points:
 - Therefore, you would also like to use a common language: Python.
 
 To make it obvious what can be completed by lunch of day 1 and to allow you to
-do that before, you can see a **TODO** In the text and in the [TODO Section][todo].
+do that before, you can view the [TODO Section][todo].
 
 Tools
 -----
@@ -36,7 +36,7 @@ technologies used.
 
 ### Communication
 
-- [![Join the chat at https://gitter.im/KDD-OpenSource-community/geox-young-academy][gitter-badge]]][gitter]
+- [![Join the chat at https://gitter.im/KDD-OpenSource-community/geox-young-academy][gitter-badge]][gitter]
   We have a chat in which you can copy and paste links.
   You can also chat privately with other participants.
   **TODO:**
@@ -58,11 +58,11 @@ How to get familiar with Python.
   by the OpenTechSchool.
   It might be best to do it with somebody else together as you may get stuck.
 
-### Jupyter through Anaconda
+### Jupyter and Anaconda
 
 To install Jupyter, we [install Anaconda][anaconda].
 It brings a lot of scientific computation tools with it which would take a long
-time to install on my own.
+time to install one-by-one own.
 
 ### Git
 [git]: #git
@@ -82,7 +82,16 @@ we can learn more with each other.
 These are the things which to complete help reach the [goals][goals].
 They are ordered by importance and estimated by mean duration.
 
-- 10min - [install git][git]
+You can view them [here][issue-template].
+Additionally, we ask you:
+
+- Bring your own data. If you like to work on a project, have it with you.
+
+## Participants
+
+There people participate in the workshop:
+
+- Nicco Kunzmann, Github: @niccokunzmann
 
 
 [juyter]: https://jupyter.org
@@ -95,3 +104,4 @@ They are ordered by importance and estimated by mean duration.
 [install-git]: https://help.github.com/articles/set-up-git/
 [try-git]: https://try.github.io/
 [git-guide]: https://rogerdudler.github.io/git-guide/
+[todo-template]: .github/ISSUE_TEMPLATE.md
