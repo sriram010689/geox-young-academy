@@ -18,7 +18,7 @@ do that before, you can view the [TODO Section][todo].
 Tools
 -----
 
-The morning of day 1 aims at enabling you to use the following tools:
+The afternoo of day 1 aims at enabling you to use the following tools:
 
 - Python 3 as Python 2 is will be outdated soon.
   If you can install Python 3.6, this is best.
