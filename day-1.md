@@ -39,7 +39,6 @@ technologies used.
 - [![Join the chat at https://gitter.im/KDD-OpenSource-community/geox-young-academy][gitter-badge]][gitter]
   We have a chat in which you can copy and paste links.
   You can also chat privately with other participants.
-  **TODO:**
 - If we help each other, we will get more stuff done. If you completed something,
   please look around you if there is someone who could do well with your
   attention (not help).
