@@ -81,7 +81,7 @@ we can learn more with each other.
 These are the things which to complete help reach the [goals][goals].
 They are ordered by importance and estimated by mean duration.
 
-You can view them [here][issue-template].
+You can view them [here][todo-template].
 Additionally, we ask you:
 
 - Bring your own data. If you like to work on a project, have it with you.
