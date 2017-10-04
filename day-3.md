@@ -3,7 +3,9 @@ Day 3
 
 **11. Oct. 9:00 - 18:00**
 
+
 **Schedule**
+
 9:00-10:30 Lecture
 
 10:30-12:00 Hands-on Session
