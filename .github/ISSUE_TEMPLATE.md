@@ -24,11 +24,20 @@
        https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#git
   - [ ] 5min - I created a pull request and added my name to the participants section.
        https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#participants
+  - [ ] 5min - I have cloned this repository to my computer.  
+        `git clone https://github.com/KDD-OpenSource/geox-young-academy.git`
 - Communication
   - [ ] 2min - I joined the chat on gitter and said "Hello".  
        https://gitter.im/KDD-OpenSource-community/geox-young-academy
   - [ ] 10min - I read the coaching guide to understand how a friendly learning can be achieved.  
        https://opentechschool.github.io/slides/presentations/coaching/
 - Python
-  - [ ] 30min - I installed Anaconda.   
+  - [ ] 30min - I installed Anaconda.  
        https://docs.anaconda.com/anaconda/install/
+  - [ ] 10min - I had a look at a Python tutorial and know how I can learn Python.
+       https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#python
+  - [ ] 15min - I have an example from the examples folder.
+       https://github.com/KDD-OpenSource/geox-young-academy/tree/master/day-1/examples
+  - [ ] 20min - I had a look at examples and know what I can do with Jupyter.
+      Try out something in your `jupyter-notebook` notebook.
+      https://matplotlib.org/gallery.html
