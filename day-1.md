@@ -2,7 +2,7 @@ Day 1 - Afternoon
 ===============
 
 **9. Oct. 13:00 - 17:00**  
-TU Berlin,Main Building,
+TU Berlin, Main Building,
 Room H6101 (Geodätenstand),
 Straße des 17. Juni 135
 10623 Berlin [→ map](http://www.openstreetmap.org/node/1481377095#map=19/52.51192/13.32724)
