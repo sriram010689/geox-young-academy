@@ -12,7 +12,7 @@ From feedback, we got the two main points:
 - You would like to cooperate on digital projects.
 - Therefore, you would also like to use a common language: Python.
 
-To make it obvious what can be completed by lunch of day 1 and to allow you to
+To make it obvious what can be completed at the end of day 1 and to allow you to
 do that before, you can view the [TODO Section][todo].
 
 Tools
