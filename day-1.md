@@ -1,4 +1,4 @@
-Day 1 - Morning
+Day 1 - Afternoon
 ===============
 
 **9. Oct. 13 - 16:30**
