@@ -16,8 +16,8 @@
        https://github.com/KDD-OpenSource/geox-young-academy/issues/new
   - [ ] 1min - I requested to join the academy team.  
        https://github.com/orgs/KDD-OpenSource/teams/geox-young-academy/members
-  - [ ] 8min - I know that the day1 document exists and a strive to improve it for other people.  
-       https://github.com/orgs/KDD-OpenSource/teams/geox-young-academy/members
+  - [ ] 8min - I know that the day-1.md document exists and a strive to improve it for other people.  
+       https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#readme
   - [ ] 10min - I installed git e.g. with Github Desktop.  
        https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#git
   - [ ] 20min - I did a git tutorial.  
@@ -41,3 +41,5 @@
   - [ ] 20min - I had a look at examples and know what I can do with Jupyter.
       Try out something in your `jupyter-notebook` notebook.
       https://matplotlib.org/gallery.html
+  - [ ] Share your example with a notebook viewer link in the examples folder.  
+      http://nbviewer.jupyter.org
