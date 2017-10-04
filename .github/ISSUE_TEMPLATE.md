@@ -41,5 +41,5 @@
   - [ ] 20min - I had a look at examples and know what I can do with Jupyter.
       Try out something in your `jupyter-notebook` notebook.
       https://matplotlib.org/gallery.html
-  - [ ] Share your example with a notebook viewer link in the examples folder.  
+  - [ ] 10min Share your example with a notebook viewer link in the examples folder.  
       http://nbviewer.jupyter.org
