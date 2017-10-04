@@ -36,10 +36,10 @@
        https://docs.anaconda.com/anaconda/install/
   - [ ] 10min - I had a look at a Python tutorial and know how I can learn Python.  
        https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#python
-  - [ ] 15min - I have an example from the examples folder.
+  - [ ] 15min - I have an example from the examples folder.  
        https://github.com/KDD-OpenSource/geox-young-academy/tree/master/day-1/examples
   - [ ] 20min - I had a look at examples and know what I can do with Jupyter.
-      Try out something in your `jupyter-notebook` notebook.
+      Try out something in your `jupyter-notebook` notebook.  
       https://matplotlib.org/gallery.html
   - [ ] 10min Share your example with a notebook viewer link in the examples folder.  
       http://nbviewer.jupyter.org
