@@ -7,5 +7,6 @@ Examples
   - random
   - plots
 - example plots
-- read and write files
+- [read and write files](http://nbviewer.jupyter.org/github/KDD-OpenSource/geox-young-academy/blob/master/day-1/examples/Files.ipynb)
+  - CSV
 - multithreading vs multiprocessing
