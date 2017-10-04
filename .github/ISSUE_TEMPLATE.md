@@ -34,7 +34,7 @@
 - Python
   - [ ] 30min - I installed Anaconda.  
        https://docs.anaconda.com/anaconda/install/
-  - [ ] 10min - I had a look at a Python tutorial and know how I can learn Python.
+  - [ ] 10min - I had a look at a Python tutorial and know how I can learn Python.  
        https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#python
   - [ ] 15min - I have an example from the examples folder.
        https://github.com/KDD-OpenSource/geox-young-academy/tree/master/day-1/examples
