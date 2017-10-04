@@ -93,6 +93,10 @@ There people participate in the workshop:
 - Nicco Kunzmann, Github: @niccokunzmann
 
 
+## Examples
+
+Please see the [day-1](day-1) folder for the examples.
+
 [juyter]: https://jupyter.org
 [waterloo]: http://cscircles.cemc.uwaterloo.ca/
 [ots]: http://learn.opentechschool.org/

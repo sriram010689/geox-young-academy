@@ -30,5 +30,5 @@
   - [ ] 10min - I read the coaching guide to understand how a friendly learning can be achieved.  
        https://opentechschool.github.io/slides/presentations/coaching/
 - Python
-  - [ ] 20min - I installed Anaconda.  
+  - [ ] 30min - I installed Anaconda.   
        https://docs.anaconda.com/anaconda/install/
