@@ -17,6 +17,8 @@ Program
 
 Tentative program for day 2:
 
+|     |     |
+|-----|-----|
 | 9:00-10:30 | Introduction to Machine Learning |
 | 10:30-11:00 | 30 minute break |
 | 11:00-12:30 | Classical Approaches to Machine Learning |
