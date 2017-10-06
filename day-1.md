@@ -96,6 +96,7 @@ Additionally, we ask you:
 There people participate in the workshop:
 
 - Nicco Kunzmann, Github: @niccokunzmann
+- Irina Zhelavskaya, @irinazz
 
 
 ## Examples
