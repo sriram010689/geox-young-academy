@@ -1,7 +1,7 @@
 Day 2
 =====
 
-**10. Oct. 9:00 - 18:00**
+**10. Oct. 9:00 - 17:00**
 
 Goals
 -----
@@ -10,6 +10,19 @@ Goals
 - Provide an overview of machine learning for classification (and regression)
 - Explain the most common concepts and pitfalls
 - Give some inspiration and show what can be done with machine learning
+
+Preparation
+-------
+
+If possible, have the following python libraries ready:
+- numpy
+- scikit-learn
+- matplotlib
+
+If we don't run out of time, we will also do a quick exercise with pytorch:
+```
+conda install pytorch torchvision -c soumith
+```
 
 
 Program
@@ -40,4 +53,4 @@ Material
 
 ### Exercises
 
-- Soon
+- [Classification using k-nearest-neighbors](day-2/exercises/knn-classification-exercise.md)
