@@ -14,8 +14,10 @@
   - [X] 5min - I created an Github account and logged in.
   - [X] 2min - I created a new issue.  
        https://github.com/KDD-OpenSource/geox-young-academy/issues/new
-  - [ ] 1min - I requested to join the academy team.  
-       https://github.com/orgs/KDD-OpenSource/teams/geox-young-academy/members
+  - [ ] 2min - I was added by @niccokunzmann to have write access to the repository and accepted the invitation:  
+       https://github.com/KDD-OpenSource/geox-young-academy/invitations
+  - [ ] I merged a pull request of an other participant. (write access required, see above)  
+        https://github.com/KDD-OpenSource/geox-young-academy/pulls
   - [ ] 8min - I know that the day-1.md document exists and a strive to improve it for other people.  
        https://github.com/KDD-OpenSource/geox-young-academy/blob/master/day-1.md#readme
   - [ ] 10min - I installed git e.g. with Github Desktop.  
